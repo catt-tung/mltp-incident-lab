@@ -1,6 +1,6 @@
 
 # Introduction to Metrics, Logs, Traces, and Profiles in Grafana Cloud Incident Lab
-looking to get more involved with metrics, logs, traces and profiles with Grafana - borrowing Hedley's famous intro-to-mltp app [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) (see LICENSE) to check out features on Grafana Cloud.
+looking to get more involved with metrics, logs, traces and profiles with Grafana - borrowing Hedley's famous intro-to-mltp app [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) to check out features on Grafana Cloud.
 focus for the learning is to see the telemetry data show up in Grafana Cloud, then use an additional k6 container to run a traffic surge and initiate a database failure to see how they show up in Grafana Cloud's Knowledge Graph and RCA workbench.
 
 **Status:** work in progress. I'm building this up step by step and documenting what I learn.
